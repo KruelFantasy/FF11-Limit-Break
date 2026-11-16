@@ -16,6 +16,8 @@ The game can still exhaust the memory pool without custom DAT mods installed, so
 3. Use **Prepare addon** and follow the included setup instructions. PlayOnline requires the **Large Address Aware (4 GB)** patch.
 4. Launch Windower through Limit Break and start PlayOnline. Check for **Armed** before logging in, then look for the **1024 MiB verified** message in-game.
 
+FF11 Limit Break does not have to stay running in the background, it only needs to be used to arm a client during the transition from Windower to Playonline.
+
 The experimental build also supports monitoring clients started from Windower shortcuts, the exe or through another launcher such as Forest.
 
 ## Credits and licence
